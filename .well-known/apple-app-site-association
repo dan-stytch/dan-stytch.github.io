@@ -1,9 +1,11 @@
 {
     "appLinks": {
-        "apps": [],
-        "details": [{}]
-    },
-        "webcredentials": {
-            "apps": [ "<TEAMID>.<BUNDLEID>", "<TEAMID>.<BUNDLEID>" ]
+        "details": [
+        {
+            "appIDs": [
+                "92AC5VS8HG.stytch.oauth-test"
+            ]
         }
+        ]
+    }
 }
