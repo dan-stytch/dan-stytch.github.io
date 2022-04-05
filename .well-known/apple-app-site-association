@@ -1,11 +1,12 @@
 {
-    "appLinks": {
+    "applinks": {
         "details": [
-        {
-            "appIDs": [
-                "92AC5VS8HG.stytch.oauth-test"
-            ]
-        }
+            {
+                "appIDs": [ "92AC5VS8HG.stytch.oauth-test" ]
+            }
         ]
+    },
+    "webcredentials": {
+        "apps": [ "92AC5VS8HG.stytch.oauth-test" ]
     }
 }
