@@ -1,0 +1,9 @@
+{
+    "appLinks": {
+        "apps": [],
+        "details": [{}]
+    },
+        "webcredentials": {
+            "apps": [ "<TEAMID>.<BUNDLEID>", "<TEAMID>.<BUNDLEID>" ]
+        }
+}
